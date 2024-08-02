@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\WindowsForms_Persona\WindowsForms_Persona\bin\Debug\WindowsForms_Persona.exe.config
+C:\Users\admin\source\repos\WindowsForms_Persona\WindowsForms_Persona\bin\Debug\WindowsForms_Persona.exe
+C:\Users\admin\source\repos\WindowsForms_Persona\WindowsForms_Persona\bin\Debug\WindowsForms_Persona.pdb
+C:\Users\admin\source\repos\WindowsForms_Persona\WindowsForms_Persona\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\WindowsForms_Persona\WindowsForms_Persona\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\WindowsForms_Persona\WindowsForms_Persona\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\WindowsForms_Persona\WindowsForms_Persona\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\WindowsForms_Persona\WindowsForms_Persona\obj\Debug\WindowsForms_Persona.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\WindowsForms_Persona\WindowsForms_Persona\obj\Debug\WindowsForms_Persona.Form1.resources
+C:\Users\admin\source\repos\WindowsForms_Persona\WindowsForms_Persona\obj\Debug\WindowsForms_Persona.Properties.Resources.resources
+C:\Users\admin\source\repos\WindowsForms_Persona\WindowsForms_Persona\obj\Debug\WindowsForms_Persona.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\WindowsForms_Persona\WindowsForms_Persona\obj\Debug\WindowsForms_Persona.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WindowsForms_Persona\WindowsForms_Persona\obj\Debug\WindowsForms_Persona.csproj.CopyComplete
+C:\Users\admin\source\repos\WindowsForms_Persona\WindowsForms_Persona\obj\Debug\WindowsForms_Persona.exe
+C:\Users\admin\source\repos\WindowsForms_Persona\WindowsForms_Persona\obj\Debug\WindowsForms_Persona.pdb
+C:\Users\admin\source\repos\WindowsForms_Persona\WindowsForms_Persona\obj\Debug\WindowsForms_Persona.Presentacion.FormularioTabla.resources
